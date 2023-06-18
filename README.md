@@ -15,10 +15,13 @@ Performane Metrics: MS Excel , MySQL
 
 ## Project Architecture
 
-![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/1a6074df-7265-4d73-8430-c4b807da0841)
+![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/d1668d35-824c-47cb-a5d3-a373db6da434)
+
 
 ##   Results
 
+This is the Employee Layoff dashboard , through which we can see the city vise , sector vise trends of laying off by different companies from different sector and countries as well. Using the filter provided of month , country and year make it more visualise , we can see the trends as per need . The filters provides more flexibilty to the user to see only the visual of his/her interest.
+
 ![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/615ebb3a-8e97-4a2d-ae8f-545fff828257)
 
-This is the Employee Layoff dashboard , through which we can see the city vise , sector vise trends of laying off by different companies from different sector and countries as well. Using the filter provided of month , country and year make it more visualise , we can see the trends as per need . The filters provides more flexibilty to the user to see only the visual of his/her interest.
+
