@@ -14,3 +14,6 @@ Dependencies: Python , MySQL , MS Excel , Numpy , Pandas
 Performane Metrics: MS Excel , MySQL
 
 ## Project Architecture
+
+![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/1a6074df-7265-4d73-8430-c4b807da0841)
+
