@@ -20,3 +20,5 @@ Performane Metrics: MS Excel , MySQL
 ##   Results
 
 ![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/615ebb3a-8e97-4a2d-ae8f-545fff828257)
+
+This is the Employee Layoff dashboard , through which we can see the city vise , sector vise trends of laying off by different companies from different sector and countries as well. Using the filter provided of month , country and year make it more visualise , we can see the trends as per need . The filters provides more flexibilty to the user to see only the visual of his/her interest.
