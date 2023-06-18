@@ -17,3 +17,6 @@ Performane Metrics: MS Excel , MySQL
 
 ![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/1a6074df-7265-4d73-8430-c4b807da0841)
 
+##   Results
+
+![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/615ebb3a-8e97-4a2d-ae8f-545fff828257)
