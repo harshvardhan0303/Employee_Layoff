@@ -15,8 +15,7 @@ Performane Metrics: MS Excel , MySQL
 
 ## Project Architecture
 
-![image](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/d1668d35-824c-47cb-a5d3-a373db6da434)
-
+![Screenshot 2023-06-18 232653](https://github.com/harshvardhan0303/Employee_Layoff/assets/91109131/45ffa5a0-7b49-4791-89a1-60c037ca68e9)
 
 ##   Results
 
